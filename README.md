@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/thecode-chic/thecode-chic/blob/main/header.jpg)
 
 <h1>Hi 👋, I'm Fanny</h1>
 <h3>A passionate web developer, I create Weekly Tutorials on Web development</h3>
